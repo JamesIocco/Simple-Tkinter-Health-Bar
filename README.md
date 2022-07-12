@@ -5,4 +5,6 @@ It works by pressing the +1 and the -1 button to shift(increase/decrease) the ma
 This requires tkinter:
 pip3 install tkinter
 
+This also requires python 3.7
+
 launch the 'Simple-Tkinter-Health-Bar' and enjoy
